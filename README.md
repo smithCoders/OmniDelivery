@@ -16,7 +16,7 @@ The project focuses on implementing best practices and principles of HTML and CS
 6. File Organization: Organizing files and directories logically for better project management.
 ## How to Use:
 1. Clone the repository to your local machine using the command:
-# ## git clone 
+###  git clone https://github.com/smithCoders/OmniDelivery/tree/master
 2. Open the index.html file in your web browser to view the project.
 Feel free to explore the HTML and CSS files to understand the implementation details and best practices used.
 Make modifications or additions to the project as needed for your learning purposes.
